@@ -1,5 +1,5 @@
 # Predicting-energy-output
-Machine  Learning project to predict net hourly electrical energy output (EP) using the Combined Cycle Power Plant Data Set
+Machine Learning project using Linear regression and multiple regression to predict net hourly electrical energy output (EP) using the Combined Cycle Power Plant Data Set
 
 Contributor - Shardul Nazirkar
 
