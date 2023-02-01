@@ -47,6 +47,6 @@ Jupyter Notebook Contents:
 
 1.(i) K-Nearest Neighbor regression using both normalized and raw features
 
-
+Skills - Data Science, Machine Learning, Linear Regression, Multiple Regression
 
 -----------------------------THANK YOU-----------------------------
